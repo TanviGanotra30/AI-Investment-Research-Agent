@@ -175,8 +175,5 @@ User Input (company name)
   financials…", "Checking sentiment…", "Analyzing…") instead of one opaque loading spinner.
 - **Tests.** Unit tests for the graph nodes (especially prompt-output parsing) and an integration test
   for the API route.
-- **Deploy to Vercel** and share the live link.
-- **Clean up dead code.** `src/prompts/investmentPrompt.ts` duplicates the prompt that's actually
-  inlined in `analysisNode.ts` and currently isn't used — consolidate into one source of truth.
 
 ---
