@@ -4,8 +4,6 @@ An AI agent that takes a public company's name, researches it, and returns an
 **INVEST / HOLD / PASS** recommendation with the reasoning behind it — built with
 **Next.js, LangGraph.js, and Google Gemini**.
 
-Built for the InsideIIM × Altuni AI Labs AI Product Development Engineer (Intern) take-home assignment.
-
 ---
 
 ## Overview
