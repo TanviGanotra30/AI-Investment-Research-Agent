@@ -1,4 +1,4 @@
-# AI Investment Research Agent
+<img width="1897" height="860" alt="image" src="https://github.com/user-attachments/assets/8a3bb7f9-c212-4749-b5ad-5724495631ef" /># AI Investment Research Agent
 
 An AI agent that takes a public company's name, researches it, and returns an
 **INVEST / HOLD / PASS** recommendation with the reasoning behind it — built with
@@ -31,21 +31,7 @@ This is a single Next.js app — the React frontend and the API/agent backend li
 - A [Google AI Studio](https://aistudio.google.com/) API key (Gemini)
 - A free [Alpha Vantage](https://www.alphavantage.co/support/#api-key) API key (stock fundamentals)
 
-### Setup
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Create a .env.local file in the project root with:
-GEMINI_API_KEY=your_gemini_api_key_here
-ALPHA_VANTAGE_KEY=your_alpha_vantage_api_key_here
-
-# 3. Run the dev server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000), type a company name into the search box, and
+Open [https://ai-investment-agentt.vercel.app/], type a company name into the search box, and
 click **Analyze**.
 
 > **Note:** Alpha Vantage's free tier is rate-limited (5 requests/min, 25/day at time of writing).
@@ -148,6 +134,7 @@ User Input (company name)
 ---
 
 ## Example Runs
+<img width="1897" height="860" alt="Screenshot 2026-07-12 222139" src="https://github.com/user-attachments/assets/43d5cccc-ceba-4721-ae9d-b37494f57d54" />
 
 <!--
   Fill this in with 2–3 actual runs of your agent before submitting, e.g.:
@@ -164,8 +151,9 @@ User Input (company name)
 
   (Paste real output from your terminal/browser here — screenshots or copied JSON both work.)
 -->
-_Add real output from your local runs here (screenshots of the UI or the raw JSON returned by
-`/api/research`) for a few companies of your choice._
+
+<img width="1758" height="787" alt="Screenshot 2026-07-12 221719" src="https://github.com/user-attachments/assets/1e6c9a80-d4e4-4c56-993f-f83389618798" />
+<img width="1901" height="862" alt="Screenshot 2026-07-12 221708" src="https://github.com/user-attachments/assets/404f1dd6-76d1-4073-b069-b4d0177b1f97" />
 
 ---
 
