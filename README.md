@@ -1,4 +1,4 @@
-<img width="1897" height="860" alt="image" src="https://github.com/user-attachments/assets/8a3bb7f9-c212-4749-b5ad-5724495631ef" /># AI Investment Research Agent
+# AI Investment Research Agent
 
 An AI agent that takes a public company's name, researches it, and returns an
 **INVEST / HOLD / PASS** recommendation with the reasoning behind it — built with
